@@ -1,0 +1,73 @@
+@import base/_variable.sass
+
+html,
+body
+    font-family: "Rubik", "PingFang TC", "Noto Sans CJK TC", "Noto Sans TC", "Microsoft JhengHei", "微軟正黑體", "helvetica", "Arial", sans-serif
+    font-weight: 400
+    touch-action: manipulation
+    color: $deep-black
+    font-size: 16px
+    line-height: normal
+    -ms-overflow-style: none
+
+*
+    box-sizing: border-box
+    scrollbar-width: none
+
+img
+    display: block
+    max-width: 100%
+
+a
+    text-decoration: none
+    color: $blue
+
+    &:hover
+        text-decoration: none
+
+button,
+[type='button'],
+[type='reset'],
+[type='submit']
+    -webkit-appearance: none
+
+// ----- remove tap background on mobile ----- //
+div,
+input,
+textarea,
+button,
+select
+    -webkit-tap-highlight-color: transparent
+
+    &:active,
+    &:focus
+        outline: none
+
+a
+    text-decoration: none
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+    margin: 0
+
+table,
+tr,
+td
+    border-collapse: collapse
+
+ul
+    margin: 0
+    padding: 0
+
+li
+    padding: 0
+    margin: 0
+
+button
+    appearance: none
+    border: 0
+    background: none
