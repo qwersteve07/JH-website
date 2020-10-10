@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/JH-website/static/css/main.b8c3214c.chunk.css",
+    "main.js": "/JH-website/static/js/main.70750d79.chunk.js",
+    "main.js.map": "/JH-website/static/js/main.70750d79.chunk.js.map",
+    "runtime-main.js": "/JH-website/static/js/runtime-main.9bbe5d4d.js",
+    "runtime-main.js.map": "/JH-website/static/js/runtime-main.9bbe5d4d.js.map",
+    "static/js/2.fd1bf804.chunk.js": "/JH-website/static/js/2.fd1bf804.chunk.js",
+    "static/js/2.fd1bf804.chunk.js.map": "/JH-website/static/js/2.fd1bf804.chunk.js.map",
+    "index.html": "/JH-website/index.html",
+    "precache-manifest.7d475a3868cf4e9bb0a9fabe2dd45f82.js": "/JH-website/precache-manifest.7d475a3868cf4e9bb0a9fabe2dd45f82.js",
+    "service-worker.js": "/JH-website/service-worker.js",
+    "static/css/main.b8c3214c.chunk.css.map": "/JH-website/static/css/main.b8c3214c.chunk.css.map",
+    "static/js/2.fd1bf804.chunk.js.LICENSE.txt": "/JH-website/static/js/2.fd1bf804.chunk.js.LICENSE.txt",
+    "static/media/crystalline-glucose.jpg": "/JH-website/static/media/crystalline-glucose.59c47a3d.jpg",
+    "static/media/fructose.jpg": "/JH-website/static/media/fructose.84b30201.jpg",
+    "static/media/maltose-75.jpg": "/JH-website/static/media/maltose-75.c983d8f9.jpg",
+    "static/media/maltose-85-25.jpg": "/JH-website/static/media/maltose-85-25.b32d1f24.jpg",
+    "static/media/maltose-85-30.jpg": "/JH-website/static/media/maltose-85-30.0ee41d37.jpg",
+    "static/media/maltose.jpg": "/JH-website/static/media/maltose.3ddf7a21.jpg",
+    "static/media/powdered-glucose.jpg": "/JH-website/static/media/powdered-glucose.e401d92d.jpg",
+    "static/media/refined-glucose.jpg": "/JH-website/static/media/refined-glucose.c90af09a.jpg",
+    "static/media/sucrose.jpg": "/JH-website/static/media/sucrose.292d6e9f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bbe5d4d.js",
+    "static/js/2.fd1bf804.chunk.js",
+    "static/css/main.b8c3214c.chunk.css",
+    "static/js/main.70750d79.chunk.js"
+  ]
+}
