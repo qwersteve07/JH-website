@@ -11,7 +11,7 @@ import Contact from 'pages/contact/contact';
 const App = () => {
   return (
     <Router>
-      <Route component={About} path="/" />
+      <Route component={About} exact path="/" />
       <Route component={About} path={PATH.ABOUT} />
       <Route component={Product} path={PATH.PRODUCT} />
       <Route component={Process} path={PATH.PROCESS} />
